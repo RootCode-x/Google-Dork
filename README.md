@@ -271,7 +271,7 @@ intitle:\"Welcome to JBoss\"
 intitle:\"Welcome to nginx!\" intext:\"Welcome to nginx on Debian!\" intext:\"Thank you for\"
 intitle:\"index of\" \"Served by Sun-ONE\"
 -pub -pool intitle:\"index of\" \"Served by\" \"Web Server\"
-intitle:\"index of\" \"server at\" ```
+intitle:\"index of\" \"server at\" 
 # Using special search string to find vulnerable websites:
 ```inurl:php?=id1
 inurl:index.php?id=
