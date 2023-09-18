@@ -273,7 +273,7 @@ intitle:\"index of\" \"Served by Sun-ONE\"
 -pub -pool intitle:\"index of\" \"Served by\" \"Web Server\"
 intitle:\"index of\" \"server at\" 
 # Using special search string to find vulnerable websites:
-```inurl:php?=id1
+||inurl:php?=id1
 inurl:index.php?id=
 inurl:trainers.php?id=
 inurl:buy.php?category=
@@ -337,4 +337,4 @@ inurl:login.seam
 inurl:nidp/idff/sso
 inurl:oidc/authorize
 inurl:opac_css
-inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
+inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60| ||
